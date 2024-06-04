@@ -1,4 +1,3 @@
-\
 <h1 align="center">Hi 👋, I'm Mohamad Walid</h1>
 <h3 align="center">A passionate frontend developer from Syria</h3>
 
